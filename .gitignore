@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Data operasional (tidak disertakan di repo ini)
+*.xlsx
+*.xls
+*.csv
+*.zip
+*timetable*
+*referensi*
+*referensi*
+*inactive_stops*
+*inactive_stops.json
